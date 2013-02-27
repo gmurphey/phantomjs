@@ -32,7 +32,8 @@
   },
   "dependencies": {
     "rimraf": "~2.0.2",
-    "unzip": "~0.1.0"
+    "unzip": "~0.1.0",
+    "exec-sync": "~0.1.5"
   },
   "devDependencies": {
     "nodeunit": "~0.7.4"
